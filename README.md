@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React and Typescript<br>🌱 I’m currently learning Python, C# and bash
+🔭 I’m currently working in React and Typescript<br>🌱 I’m currently learning Python, C# and bash
 
 
 ## 🌐 Socials:
