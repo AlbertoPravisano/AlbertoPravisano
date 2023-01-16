@@ -12,6 +12,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+[![](https://media.badgr.com/uploads/badges/assertion-Pww5X-XhQA-GdgEj9SqQ7w.png)](https://api.badgr.io/public/assertions/Pww5X-XhQA-GdgEj9SqQ7w) 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=AlbertoPravisano&icon=3&color=0)](https://visitcount.itsvg.in)
 
