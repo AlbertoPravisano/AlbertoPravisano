@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with React and Typescript<br>🌱 I’m currently learning Angular and bash
+🔭 I’m currently working with Angular and Java Spring🌱<br>
 
 
 ## 🌐 Socials:
