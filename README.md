@@ -19,6 +19,8 @@
 
 | Certificazione | Ente | Data |
 |---|---|---|
+| [Claude Academy: AI capabilities and limitations](https://academy.claude.com/verify/0b80a525a975f6876a7a85d393f9cb10) | Anthropic | nov 2026 |
+| [Claude Academy: Building effective human-agent teams (beta)](https://academy.claude.com/verify/0b80a525a975f6876a7a85d393f9cb10) | Anthropic | nov 2026 |
 | [Claude Academy: AI Fluency – Framework & Foundations](https://academy.claude.com/verify/0b80a525a975f6876a7a85d393f9cb10) | Anthropic | ago 2026 |
 | [Claude Academy: Claude Code 101](https://academy.claude.com/verify/c9839db06439f60ce16c971d4a1379a3) | Anthropic | ago 2026 |
 | [Claude Academy: Claude 101](https://academy.claude.com/verify/deba4cd28fee3dc29cd2ed01bdda4d6a) | Anthropic | ago 2026 |
